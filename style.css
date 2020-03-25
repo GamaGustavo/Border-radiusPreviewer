@@ -1,0 +1,55 @@
+body{
+    background-color: rgba(68, 72, 78, 0.63);
+    font: normal 20pt Arial;
+    
+}
+
+header{
+    color: white;
+    text-align: center;
+}
+.view{
+    background-color: rgba(238, 234, 234, 0.52);
+    width: 180px;
+    padding: 150px;
+    margin-top: 40px;
+}
+div#tl{
+    position: absolute;
+}
+div#tr{
+    float: right;
+}
+div#dr{
+    float: right;
+}
+div{
+    width: max-content;
+   
+}
+div#result{
+    background-color: rgba(238, 234, 234, 0.52) ;
+    margin: auto;
+}
+section{
+    padding: 10px;
+    width: max-content;
+    margin: auto;
+    margin-top: 15px;
+    background-color: tomato;
+    border-radius: 20px;
+    text-align: center;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+input{
+    width: 50px;
+}
+h2{
+    color: white;
+    margin: auto;
+    
+}
