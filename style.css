@@ -8,30 +8,34 @@ header{
     color: white;
     text-align: center;
 }
-.view{
-    background-color: rgba(238, 234, 234, 0.52);
-    width: 180px;
-    padding: 150px;
-    margin-top: 40px;
-}
-div#tl{
-    position: absolute;
-}
-div#tr{
-    float: right;
-}
-div#dr{
-    float: right;
-}
-div{
-    width: max-content;
-   
+.Conteudo-principal-do-site{
+    display: grid;
+    background-color: tomato;
+    padding: 15px;
+    
+    grid-template-columns: auto 180px auto;
+    grid-template-rows: auto 150px auto;
+	
 }
 div#result{
     background-color: rgba(238, 234, 234, 0.52) ;
-    margin: auto;
+    margin-top: auto;
+
 }
-section{
+
+section#essa{
+    display: grid;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+
+}
+div#border-radius{
+    background-color: rgba(238, 234, 234, 0.52); 
+    margin-top: 10px;
+    
+}
+.resultado{
     padding: 10px;
     width: max-content;
     margin: auto;
