@@ -1,2 +1,2 @@
 # Border-radiusPreviewer
-Access https://gamagustavo.github.io/Border-radiusPreviewer/
+Access https://borderradiuspreviewer.net
